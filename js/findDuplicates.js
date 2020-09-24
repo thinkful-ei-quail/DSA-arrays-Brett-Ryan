@@ -30,3 +30,5 @@ function findDuplicates(arr1, arr2) {
 const arr1 = [1, 3, 6, 8, 11, 12, 13, 14];
 const arr2 = [2, 3, 4, 5, 7, 9, 12, 20];
 console.log(findDuplicates(arr1, arr2), 'case M ~ N');
+
+// Written by Teddy originally
